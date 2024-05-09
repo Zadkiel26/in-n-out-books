@@ -1,2 +1,4 @@
-# in-n-out-books
-In-N-Out Books
+# In-N-Out Books
+## Contributors
+* Zadkiel Rodriguez Alvarado
+* Professor Richard Krasso
