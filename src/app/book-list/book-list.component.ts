@@ -6,7 +6,6 @@
  */
 import { Component, OnInit } from '@angular/core';
 import { IBook } from '../book.interface';
-import { Observable } from 'rxjs';
 import { BooksService } from '../books.service';
 import { MatDialog } from '@angular/material/dialog';
 import { BookDetailsDialogComponent } from '../book-details-dialog/book-details-dialog.component';
